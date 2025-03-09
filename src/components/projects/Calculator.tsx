@@ -9,7 +9,7 @@ const StyledButton = styled.button`
     padding: 4px;
     border: 1px solid green;
     background-color:  green;
-    font-size: calc(3px + 2vw);
+    font-size: calc(2px + 1.2vw);
     border-radius: 4px;
     font-weight: bold;
     margin: 1vh;
